@@ -7,5 +7,5 @@ Numbrles is a Windows console game with interactive UI which resembles very stro
 
 ---
 # Images
-![menu]()
-![game]()
+![menu](https://github.com/H0riaa/Numbrle/blob/master/img/menu.png)
+![game](https://github.com/H0riaa/Numbrle/blob/master/img/game.png)
